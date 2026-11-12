@@ -37,11 +37,11 @@ HoloLens 2で、積み木をどこまで高く積めるかを競うMRコンテ�
 
 ## 使用技術
 
-- Unity 2022.3.10f1
+- Unity 2022.3.21f1
 - HoloLens 2
 - Mixed Reality Toolkit (MRTK) 2.8.3
-- Mixed Reality OpenXR Plugin 1.11.1
-- OpenXR Plugin 1.8.2
+- Mixed Reality OpenXR Plugin 1.11.2
+- OpenXR Plugin 1.10.0
 - C#
 
 ## 工夫した点・苦労した点
